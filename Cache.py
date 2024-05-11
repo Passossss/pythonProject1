@@ -43,6 +43,7 @@ def mapeamento_direto(tamanho_cache, posicoes_memoria_acessar):
 # linha de testes luis
 posicoes_memoria_acessar = [33,3,11,5]
 tamanho_cache = 5
+# testes do arquivo do professor
 #posicoes_memoria_acessar =[0,1,2,2,22,32,42,20,1,10,11,12,13]
 #tamanho_cache = 5
 mapeamento_direto(tamanho_cache, posicoes_memoria_acessar)
